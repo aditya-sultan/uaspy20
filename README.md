@@ -1,2 +1,4 @@
 # Project UAS Bahasa Pemrograman
 silakan tuliskan langkah-langkah disertai screenshotnya
+
+![](https://github.com/aditya-sultan/uaspy20/blob/master/output.jfif)
